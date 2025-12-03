@@ -1,55 +1,69 @@
 # 👋 Olá, eu sou Gabriel Santos
 
-![Status](https://img.shields.io/badge/Status-Estudante-green) ![Idade](https://img.shields.io/badge/Idade-16-blue) ![Localização](https://img.shields.io/badge/Local-SP-lightgrey)
+![Status](https://img.shields.io/badge/Status-Estudante-green) ![Idade](https://img.shields.io/badge/16%20anos-blue) ![Localização](https://img.shields.io/badge/Local-SP-lightgrey)
 
 Sou um estudante apaixonado por programação e tecnologia, atualmente cursando **Técnico em Desenvolvimento de Sistemas**.  
-Após concluir o curso, pretendo ingressar na **faculdade de ADS** e iniciar minha carreira como desenvolvedor.  
+Meu objetivo é evoluir como desenvolvedor, ingressar na **faculdade de ADS** e construir uma carreira sólida na área de tecnologia.  
 
-Inglês e espanhol básicos, sempre buscando melhorar! 🌍
+Inglês e espanhol básicos, sempre em aprendizado contínuo! 🌎
 
 ---
 
-## 💻 Tecnologias e Linguagens
-Aqui estão algumas das linguagens e tecnologias que estudo e aplico:  
+## 🛠️ Tecnologias e Linguagens
 
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-- ![Lua](https://img.shields.io/badge/Lua-000080?style=for-the-badge&logo=lua&logoColor=white)  
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+<div>
+<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img alt="Lua" src="https://img.shields.io/badge/Lua-000080?style=for-the-badge&logo=lua&logoColor=white"/>
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</div>
 
 ---
 
 ## 📂 Projetos
+
 > Atualmente meus projetos estão privados, mas aqui estão alguns que já desenvolvi:
 
-- 📝 **Vetores (Python)** – Atividade prática do meu curso técnico  
-- 🔍 **Test sobre meu aprendizado (Python)** – Exercício de estruturas condicionais (`if`, `elif`, `else`)  
-- 🖥️ **Consultar Nota Aluno GUI (Python/Tkinter)** – App para consultar notas de alunos de forma visual  
-- 🌐 **Guia Front-End para Iniciantes (HTML/CSS/JS)** – Introdução aos fundamentos do front-end  
-- ⏱️ **Simulador de Ponto (Python)** – Sistema de simulação de ponto e salário com lógica de cargos e clima  
-- 🔑 **Gerador de Senhas (Python)** – Ferramenta para criar senhas seguras  
-- 📚 **Biblioteca (JavaScript)** – Pequena biblioteca com funções utilitárias  
+| Projeto | Linguagem | Descrição |
+|---------|-----------|-----------|
+| 📝 Vetores | Python | Atividade prática do meu curso técnico |
+| 🔍 Test sobre meu aprendizado | Python | Exercício de estruturas condicionais (`if`, `elif`, `else`) |
+| 🖥️ Consultar Nota Aluno GUI | Python/Tkinter | App para consultar notas de alunos de forma visual |
+| 🌐 Guia Front-End para Iniciantes | HTML/CSS/JS | Introdução aos fundamentos do front-end |
+| ⏱️ Simulador de Ponto | Python | Sistema de simulação de ponto e salário com lógica de cargos e clima |
+| 🔑 Gerador de Senhas | Python | Ferramenta para criar senhas seguras |
+| 📚 Biblioteca | JavaScript | Pequena biblioteca com funções utilitárias |
 
 *(Mais projetos podem ser vistos na aba [Repositórios](https://github.com/gabrielsantos2303?tab=repositories))*
 
 ---
 
 ## 🌐 Contato
-Entre em contato comigo pelo meu meio preferido:  
 
-- 💬 **Discord:** gabrielking23k  
-- 🐙 **GitHub:** [gabrielsantos2303](https://github.com/gabrielsantos2303)  
+<div>
+<img src="https://img.shields.io/badge/Discord-gabrielking23k-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-gabrielsantos2303-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</div>
 
 ---
 
 ## 🎯 Objetivos Futuros
-1. Concluir o curso técnico em Desenvolvimento de Sistemas ✅  
-2. Ingressar na faculdade de ADS 🎓  
-3. Desenvolver projetos próprios e contribuir com a comunidade 💡  
-4. Iniciar carreira profissional como desenvolvedor 🚀  
-5. **Obter estabilidade familiar e financeira** 💰🏠  
+
+- ✅ Concluir o curso técnico em Desenvolvimento de Sistemas  
+- 🎓 Ingressar na faculdade de ADS  
+- 💡 Desenvolver projetos próprios e contribuir com a comunidade  
+- 🚀 Iniciar carreira profissional como desenvolvedor  
+- 💰🏠 **Alcançar estabilidade financeira e familiar**
 
 ---
 
-### 🚀 Sempre aprendendo, sempre programando!
+## ✨ Sobre mim
+
+- Apaixonado por tecnologia e programação  
+- Sempre aprendendo e buscando novos desafios  
+- Jovem desenvolvedor em crescimento, pronto para novos projetos e oportunidades
+
+---
+
+### 🚀 Let's code and make the future!
