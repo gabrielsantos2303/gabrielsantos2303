@@ -15,9 +15,9 @@ Inglês e espanhol básicos, sempre em aprendizado contínuo! 🌎
 <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img alt="Lua" src="https://img.shields.io/badge/Lua-000080?style=for-the-badge&logo=lua&logoColor=white"/>
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img alt="Discord Bot" src="https://img.shields.io/badge/Discord_Bot-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
 <img alt="UI/UX" src="https://img.shields.io/badge/UI%2FUX-FF69B4?style=for-the-badge&logo=figma&logoColor=white"/>
 <img alt="Roblox" src="https://img.shields.io/badge/Roblox-E9141D?style=for-the-badge&logo=roblox&logoColor=white"/>
