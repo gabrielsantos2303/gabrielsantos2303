@@ -25,7 +25,7 @@ Inglês e espanhol básicos, sempre em aprendizado contínuo! 🌎
 
 ---
 
-## 📂 Projetos
+## 📂 Alguns dos meus projetos
 
 > Atualmente meus projetos estão privados, mas aqui estão alguns que já desenvolvi:
 
