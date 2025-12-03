@@ -67,9 +67,10 @@ Inglês e espanhol básicos, sempre em aprendizado contínuo! 🌎
 
 ## ✨ Sobre mim
 
-- Apaixonado por tecnologia e programação  
-- Sempre aprendendo e buscando novos desafios  
-- Jovem desenvolvedor em crescimento, pronto para novos projetos e oportunidades
+- Estudante dedicado de Desenvolvimento de Sistemas  
+- Curioso por tecnologia e sempre explorando novas linguagens  
+- Busco crescer como desenvolvedor através de projetos, estudos e prática constante  
+
 
 ---
 
