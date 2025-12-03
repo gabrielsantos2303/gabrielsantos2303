@@ -33,7 +33,8 @@ Inglês e espanhol básicos, sempre em aprendizado contínuo! 🌎
 | 🌐 Guia Front-End para Iniciantes | HTML/CSS/JS | Introdução aos fundamentos do front-end |
 | ⏱️ Simulador de Ponto | Python | Sistema de simulação de ponto e salário com lógica de cargos e clima |
 | 🔑 Gerador de Senhas | Python | Ferramenta para criar senhas seguras |
-| 📚 Biblioteca | JavaScript | Pequena biblioteca com funções utilitárias |
+| 📚 Biblioteca | JavaScript | Projeto desenvolvido a partir de uma ideia da escola, com potencial para se tornar uma biblioteca real utilizada pelos alunos. |
+
 
 *(Mais projetos podem ser vistos na aba [Repositórios](https://github.com/gabrielsantos2303?tab=repositories))*
 
